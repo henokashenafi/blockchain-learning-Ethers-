@@ -5,7 +5,7 @@ The goal is to explore smart contract deployment, interaction, and blockchain co
 
 ## Folder Structure
 
-- `ethers/` - Contains scripts related to Ethereum smart contracts using Ethers.js
+ Contains scripts related to Ethereum smart contracts using Ethers.js
   - `deploy.js` - Example script for deploying smart contracts
 
 ## Features
